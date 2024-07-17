@@ -21,7 +21,7 @@ Contenido
    
  
 <h3 align="center" > Languajes, tecnologias y DB utilizados </h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode,react,postgresql" 
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,react,postgresql" 
  </p>
  <h5>-Los lenguajes utilizados fueron: html, css, js y react </h5>
  <h5>-Las tecnologias utilizadas fueron: github, postgrestsql y Visual Studio Code </h5>
